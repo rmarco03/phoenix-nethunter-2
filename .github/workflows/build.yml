@@ -1,0 +1,46 @@
+name: Phoenix NetHunter Build
+
+on:
+  push:
+    branches:
+      - main
+
+  pull_request:
+    branches:
+      - main
+
+
+jobs:
+
+  project-check:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+
+      - name: Check project structure
+        run: |
+          echo "Checking Phoenix NetHunter structure"
+
+          test -d docs
+          test -d kernel
+          test -d drivers
+          test -d scripts
+          test -d kali-rootfs
+          test -d nethunter-core
+
+          echo "Structure OK"
+
+
+      - name: Check scripts
+        run: |
+          echo "Checking scripts"
+
+          test -f scripts/setup.sh
+          test -f scripts/build.sh
+
+          echo "Scripts OK"
