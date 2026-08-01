@@ -1,0 +1,15 @@
+{
+  "project": "Phoenix NetHunter",
+
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+
+  "channel": "development",
+
+  "architecture": "ARM64",
+
+  "target": "iPhone9,1"
+}
