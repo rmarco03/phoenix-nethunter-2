@@ -9,6 +9,10 @@
   run: |
     python3 phoenix-testing/core/test_manager.py
 
+- name: Phoenix Release Check
+  run: |
+    python3 phoenix-release/core/release_manager.py
+
 on:
   push:
     branches:
