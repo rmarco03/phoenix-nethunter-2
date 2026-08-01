@@ -1,0 +1,8 @@
+{
+  "device": "iPhone 7",
+  "identifier": "iPhone9,1",
+  "soc": "Apple A10 Fusion",
+  "architecture": "ARM64",
+  "ram": "2GB",
+  "target_os": "Kali Linux ARM64"
+}
