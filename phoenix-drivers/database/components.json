@@ -1,0 +1,34 @@
+{
+  "device": "iPhone9,1",
+
+  "drivers": {
+
+    "display": {
+      "status": "research"
+    },
+
+    "touch": {
+      "status": "research"
+    },
+
+    "touchid": {
+      "status": "research"
+    },
+
+    "gpu": {
+      "status": "research"
+    },
+
+    "wifi": {
+      "status": "research"
+    },
+
+    "usb": {
+      "status": "research"
+    },
+
+    "audio": {
+      "status": "research"
+    }
+  }
+}
