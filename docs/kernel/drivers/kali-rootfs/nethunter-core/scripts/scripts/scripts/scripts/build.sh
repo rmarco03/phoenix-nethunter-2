@@ -1,7 +1,9 @@
 #!/bin/bash
 
-echo "Phoenix Nethunter build system"
+echo "=============================="
+echo " Phoenix NetHunter Build"
+echo "=============================="
 
-echo "Preparing components..."
+python3 scripts/phoenix_build.py
 
 echo "Build finished"
