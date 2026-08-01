@@ -1,0 +1,35 @@
+{
+  "tests": {
+
+    "cpu": {
+      "description": "CPU identification and capability test",
+      "status": "planned"
+    },
+
+    "memory": {
+      "description": "Memory availability test",
+      "status": "planned"
+    },
+
+    "storage": {
+      "description": "Storage interface test",
+      "status": "planned"
+    },
+
+    "network": {
+      "description": "Network interface test",
+      "status": "planned"
+    },
+
+    "input": {
+      "description": "Input device test",
+      "status": "planned"
+    },
+
+    "sensors": {
+      "description": "Sensor availability test",
+      "status": "planned"
+    }
+
+  }
+}
