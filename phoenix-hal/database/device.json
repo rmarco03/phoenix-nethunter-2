@@ -1,0 +1,39 @@
+{
+  "device": {
+    "name": "iPhone 7",
+    "identifier": "iPhone9,1",
+    "architecture": "ARM64"
+  },
+
+  "soc": {
+    "name": "Apple A10 Fusion",
+    "cores": 4
+  },
+
+  "components": {
+
+    "display": {
+      "status": "research"
+    },
+
+    "touch": {
+      "status": "research"
+    },
+
+    "wifi": {
+      "status": "research"
+    },
+
+    "usb": {
+      "status": "research"
+    },
+
+    "audio": {
+      "status": "research"
+    },
+
+    "gpu": {
+      "status": "research"
+    }
+  }
+}
