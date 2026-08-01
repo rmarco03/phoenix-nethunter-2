@@ -1,0 +1,25 @@
+{
+  "packages": {
+
+    "phoenix-core": {
+      "version": "0.1.0",
+      "status": "installed"
+    },
+
+    "phoenix-network": {
+      "version": "0.1.0",
+      "status": "installed"
+    },
+
+    "phoenix-security": {
+      "version": "0.1.0",
+      "status": "installed"
+    },
+
+    "kali-tools": {
+      "version": "rolling",
+      "status": "planned"
+    }
+
+  }
+}
