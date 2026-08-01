@@ -1,0 +1,31 @@
+{
+  "device": "iPhone9,1",
+
+  "boot_chain": [
+
+    {
+      "stage": "Boot ROM",
+      "component": "Hardware startup",
+      "status": "documenting"
+    },
+
+    {
+      "stage": "Bootloader",
+      "component": "iBoot",
+      "status": "documenting"
+    },
+
+    {
+      "stage": "Kernel",
+      "component": "Kernel loading",
+      "status": "research"
+    },
+
+    {
+      "stage": "OS",
+      "component": "Operating system",
+      "status": "research"
+    }
+
+  ]
+}
