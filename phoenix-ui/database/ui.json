@@ -1,0 +1,17 @@
+{
+  "interface": {
+
+    "mode": "terminal",
+
+    "theme": "phoenix-dark",
+
+    "language": "en",
+
+    "notifications": true,
+
+    "dashboard": {
+      "enabled": true
+    }
+
+  }
+}
