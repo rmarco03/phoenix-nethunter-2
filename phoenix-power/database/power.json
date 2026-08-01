@@ -1,0 +1,27 @@
+{
+  "device": "iPhone9,1",
+
+  "power": {
+
+    "battery": {
+      "status": "research"
+    },
+
+    "cpu_scaling": {
+      "status": "research"
+    },
+
+    "thermal": {
+      "status": "research"
+    },
+
+    "sleep": {
+      "status": "research"
+    },
+
+    "wake_events": {
+      "status": "research"
+    }
+
+  }
+}
