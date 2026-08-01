@@ -1,0 +1,7 @@
+{
+  "project": "Phoenix NetHunter",
+  "version": "0.1.0",
+  "architecture": "ARM64",
+  "status": "research",
+  "target_device": "iPhone9,1"
+}
