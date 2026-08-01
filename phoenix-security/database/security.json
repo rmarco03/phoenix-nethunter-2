@@ -1,0 +1,25 @@
+{
+  "security": {
+
+    "permissions": {
+      "status": "planned"
+    },
+
+    "authentication": {
+      "status": "research"
+    },
+
+    "audit": {
+      "status": "planned"
+    },
+
+    "integrity": {
+      "status": "research"
+    },
+
+    "logging": {
+      "status": "active"
+    }
+
+  }
+}
