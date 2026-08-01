@@ -1,6 +1,13 @@
 - name: Run Phoenix Build System
   run: |
     python3 scripts/phoenix_build.py
+- name: Phoenix CI Check
+  run: |
+    python3 phoenix-ci/core/ci_manager.py
+
+- name: Hardware Test Framework
+  run: |
+    python3 phoenix-testing/core/test_manager.py
 
 on:
   push:
