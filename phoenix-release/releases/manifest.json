@@ -1,0 +1,22 @@
+{
+  "release": {
+
+    "name": "Phoenix NetHunter Development",
+
+    "version": "0.1.0",
+
+    "architecture": "ARM64",
+
+    "components": [
+
+      "Phoenix Core",
+      "Phoenix HAL",
+      "Phoenix Services",
+      "Phoenix Kali Integration"
+
+    ],
+
+    "status": "development"
+
+  }
+}
