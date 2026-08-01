@@ -1,0 +1,30 @@
+{
+  "services": {
+
+    "network": {
+      "enabled": true,
+      "status": "stopped"
+    },
+
+    "storage": {
+      "enabled": true,
+      "status": "stopped"
+    },
+
+    "security": {
+      "enabled": true,
+      "status": "stopped"
+    },
+
+    "input": {
+      "enabled": true,
+      "status": "stopped"
+    },
+
+    "power": {
+      "enabled": true,
+      "status": "stopped"
+    }
+
+  }
+}
