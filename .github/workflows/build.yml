@@ -1,4 +1,6 @@
-name: Phoenix NetHunter Build
+- name: Run Phoenix Build System
+  run: |
+    python3 scripts/phoenix_build.py
 
 on:
   push:
