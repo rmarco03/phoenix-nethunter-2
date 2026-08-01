@@ -1,0 +1,18 @@
+{
+  "kernel": {
+    "name": "Phoenix Kernel",
+    "architecture": "ARM64",
+    "target": "Apple A10 Fusion",
+    "status": "research"
+  },
+
+  "features": {
+
+    "networking": true,
+    "usb": true,
+    "filesystem": true,
+    "debug": true,
+    "security": true
+
+  }
+}
