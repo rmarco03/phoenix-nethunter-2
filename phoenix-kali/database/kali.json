@@ -1,0 +1,28 @@
+{
+  "kali": {
+
+    "distribution": "Kali Linux",
+
+    "architecture": "ARM64",
+
+    "rootfs": {
+
+      "type": "userspace",
+      "status": "planned"
+
+    },
+
+    "packages": {
+
+      "status": "planned"
+
+    },
+
+    "nethunter": {
+
+      "status": "research"
+
+    }
+
+  }
+}
