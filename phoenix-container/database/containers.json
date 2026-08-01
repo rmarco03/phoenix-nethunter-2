@@ -1,0 +1,21 @@
+{
+  "containers": {
+
+    "kali-arm64": {
+
+      "type": "linux-userspace",
+      "architecture": "ARM64",
+      "status": "planned"
+
+    },
+
+    "phoenix-dev": {
+
+      "type": "development",
+      "architecture": "ARM64",
+      "status": "planned"
+
+    }
+
+  }
+}
