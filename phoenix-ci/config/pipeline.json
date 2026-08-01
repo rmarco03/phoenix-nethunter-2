@@ -1,0 +1,21 @@
+{
+  "pipeline": {
+
+    "tests": {
+      "enabled": true
+    },
+
+    "build": {
+      "enabled": true
+    },
+
+    "hardware_checks": {
+      "enabled": true
+    },
+
+    "reports": {
+      "enabled": true
+    }
+
+  }
+}
