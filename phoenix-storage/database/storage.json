@@ -1,0 +1,26 @@
+{
+  "device": "iPhone9,1",
+
+  "storage": {
+
+    "internal_storage": {
+      "type": "flash",
+      "status": "research"
+    },
+
+    "filesystem": {
+      "target": "Linux filesystem",
+      "status": "research"
+    },
+
+    "rootfs": {
+      "type": "Kali ARM64 userspace",
+      "status": "planned"
+    },
+
+    "images": {
+      "status": "planned"
+    }
+
+  }
+}
