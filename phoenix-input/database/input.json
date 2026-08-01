@@ -1,0 +1,32 @@
+{
+  "device": "iPhone9,1",
+
+  "inputs": {
+
+    "touchscreen": {
+      "type": "multi-touch",
+      "status": "research"
+    },
+
+    "home_button": {
+      "type": "physical_button",
+      "status": "research"
+    },
+
+    "touchid": {
+      "type": "biometric_sensor",
+      "status": "research"
+    },
+
+    "accelerometer": {
+      "type": "sensor",
+      "status": "research"
+    },
+
+    "gyroscope": {
+      "type": "sensor",
+      "status": "research"
+    }
+
+  }
+}
